@@ -1,0 +1,36 @@
+{
+    "ttl": 60,
+    "data": {
+        "plans": [
+            {
+                "price": 174.0800,
+                "is_taxable": 0,
+                "url": "madison.bcycle.com",
+                "description": "Pay once, ride all season! Get access to unlimited 90-minute trips. \n\n$7/half hour plus tax, for trips over 90 minutes.\n",
+                "currency": "USD",
+                "name": "Annual Pass",
+                "plan_id": "bcycle_madison_84"
+            },
+            {
+                "price": 33.7600,
+                "is_taxable": 0,
+                "url": "madison.bcycle.com",
+                "description": "Recurring monthly subscription for an unlimited number of 60-minute trips, plus tax. \n\n$7/half hour plus tax, for trips over 60 minutes.",
+                "currency": "USD",
+                "name": "Monthly Pass",
+                "plan_id": "bcycle_madison_306"
+            },
+            {
+                "price": 7.3900,
+                "is_taxable": 0,
+                "url": "madison.bcycle.com",
+                "description": "$7 plus tax per trip, up to 30 minutes of riding. \n\n$7 plus tax for each additional trip, up to 30 minutes. ",
+                "currency": "USD",
+                "name": "Single Ride Pass",
+                "plan_id": "bcycle_madison_583"
+            }
+        ]
+    },
+    "version": "1.1",
+    "last_updated": 1725564705
+}

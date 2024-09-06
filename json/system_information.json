@@ -1,0 +1,25 @@
+{
+    "ttl": 60,
+    "data": {
+        "rental_apps": {
+            "android": {
+                "store_uri": "https://play.google.com/store/apps/details?id=com.bcycle",
+                "discovery_uri": "bcycle://"
+            },
+            "ios": {
+                "store_uri": "https://apps.apple.com/us/app/bcycle/id371185597",
+                "discovery_uri": "bcycle://"
+            }
+        },
+        "purchase_url": null,
+        "system_id": "bcycle_madison",
+        "name": "Madison BCycle",
+        "language": "en",
+        "url": "https://madison.bcycle.com",
+        "phone_number": "800.473.4743",
+        "email": "info@madisonbcycle.com",
+        "timezone": "America/Chicago"
+    },
+    "version": "1.1",
+    "last_updated": 1725564620
+}

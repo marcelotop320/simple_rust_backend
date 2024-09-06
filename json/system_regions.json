@@ -1,0 +1,65 @@
+{
+    "ttl": 60,
+    "data": {
+        "regions": [
+            {
+                "region_name": "BCycle",
+                "region_id": "bcycle_madison_region_48"
+            },
+            {
+                "region_name": "Fitchburg East",
+                "region_id": "bcycle_madison_region_47"
+            },
+            {
+                "region_name": "Fitchburg West",
+                "region_id": "bcycle_madison_region_75"
+            },
+            {
+                "region_name": "Isthmus North",
+                "region_id": "bcycle_madison_region_43"
+            },
+            {
+                "region_name": "Isthmus South",
+                "region_id": "bcycle_madison_region_77"
+            },
+            {
+                "region_name": "Monona Loop",
+                "region_id": "bcycle_madison_region_46"
+            },
+            {
+                "region_name": "North Loop",
+                "region_id": "bcycle_madison_region_78"
+            },
+            {
+                "region_name": "Observatory Dr Corridor",
+                "region_id": "bcycle_madison_region_76"
+            },
+            {
+                "region_name": "South",
+                "region_id": "bcycle_madison_region_45"
+            },
+            {
+                "region_name": "State Street area",
+                "region_id": "bcycle_madison_region_79"
+            },
+            {
+                "region_name": "The Square and Mansion Hill",
+                "region_id": "bcycle_madison_region_42"
+            },
+            {
+                "region_name": "UW Campus",
+                "region_id": "bcycle_madison_region_41"
+            },
+            {
+                "region_name": "West & University Bay Dr",
+                "region_id": "bcycle_madison_region_44"
+            },
+            {
+                "region_name": "z_test region",
+                "region_id": "bcycle_madison_region_20"
+            }
+        ]
+    },
+    "version": "1.1",
+    "last_updated": 1725564731
+}
